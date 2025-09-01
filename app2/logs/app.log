@@ -1,0 +1,8 @@
+[2025-08-29 01:51:06,648] INFO in app: Incoming Request: GET /metals/68b0967598ab1ee4c240c0f5 | Body: None | Args: {}
+[2025-08-29 01:51:06,650] INFO in app: Response: 405 METHOD NOT ALLOWED for GET /metals/68b0967598ab1ee4c240c0f5
+[2025-08-29 01:51:16,163] INFO in app: Incoming Request: GET /metals | Body: None | Args: {}
+[2025-08-29 01:51:16,168] INFO in app: Response: 200 OK for GET /metals
+[2025-08-29 01:51:23,177] INFO in app: Incoming Request: GET /metals/68b0967598ab1ee4c240c0f5 | Body: None | Args: {}
+[2025-08-29 01:51:23,178] INFO in app: Response: 405 METHOD NOT ALLOWED for GET /metals/68b0967598ab1ee4c240c0f5
+[2025-08-29 01:54:53,081] INFO in app: Incoming Request: GET /metals/68b0967598ab1ee4c240c0f5 | Body: None | Args: {}
+[2025-08-29 01:54:53,088] INFO in app: Response: 200 OK for GET /metals/68b0967598ab1ee4c240c0f5
